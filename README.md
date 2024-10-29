@@ -1,2 +1,2 @@
 # Keeper-simple
-Created with CodeSandbox
+Its minute but my first step into react :)
